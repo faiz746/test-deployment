@@ -121,7 +121,7 @@ export default function Portfolio() {
             Portfolio
           </p>
           <h1 className="hero-line portfolio-title">
-            Muhammad Faizullah
+             Faizullah
           </h1>
           <h2 className="hero-line portfolio-subtitle">
             Full Stack Developer
